@@ -68,6 +68,7 @@ The Text Summarization Tool is an excellent solution for quickly condensing long
 
 
 OUTPUT:
+
 ![Image](https://github.com/user-attachments/assets/0307af58-5a10-4dbc-bed2-8073dcecd733)
 
 ![Image](https://github.com/user-attachments/assets/ae2217db-c53e-416e-9aeb-bd36acc0b372)
