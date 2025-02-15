@@ -65,3 +65,9 @@ FUTURE ENCHANCEMENTS:
 
 CONCLUSION:
 The Text Summarization Tool is an excellent solution for quickly condensing long-form text into short and meaningful summaries. It’s an easy-to-use, efficient, and accurate NLP-based summarization system that can help professionals, students, and researchers extract essential information from lengthy documents.With its intuitive GUI, users can input text, click a button, and receive summarized text along with key insights in just seconds!
+
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/0307af58-5a10-4dbc-bed2-8073dcecd733)
+
+![Image](https://github.com/user-attachments/assets/ae2217db-c53e-416e-9aeb-bd36acc0b372)
