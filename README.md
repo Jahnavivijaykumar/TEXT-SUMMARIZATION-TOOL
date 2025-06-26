@@ -1,16 +1,6 @@
 # TEXT-SUMMARIZATION-TOOL
 
-*COMPANY* : CODTECH IT SOLUTIONS
 
-*NAME* : JAHNAVI V
-
-*INTERN ID* : CT08TPZ
-
-*DOMAIN* : ARTIFICIAL INTELLIGENCE
-
-*DURATION* : 4 WEEKS
-
-*MENTOR* : NEELA SATOSH
 
 INTRODUCTION:
 With the help of the straightforward yet effective Python application Text Summarization Tool, users may create succinct summaries of large paragraphs or articles. It provides keyword extraction and word count analysis in addition to using Natural Language Processing (NLP) techniques to extract the most pertinent phrases from the provided text. Because Tkinter, a Python GUI package, was used in its design, the program is interactive and easy to use.
